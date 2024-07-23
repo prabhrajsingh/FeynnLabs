@@ -1,2 +1,2 @@
 # FeynnLabs
-Done a market segmentation on McDonald's Case study
+Done a Market Segmentation for Electric Vehicle Market in India.
